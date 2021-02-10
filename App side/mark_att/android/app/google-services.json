@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470858577855",
+    "firebase_url": "https://attendance-senior-default-rtdb.firebaseio.com",
+    "project_id": "attendance-senior",
+    "storage_bucket": "attendance-senior.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470858577855:android:1bd7260afd17150cd1530a",
+        "android_client_info": {
+          "package_name": "com.example.mark_att"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470858577855-h6o8n5tfr1n4nt8p51fd1lr5f3be4ujs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2lHZX0yKzlLF-4cBus4I3du1hJFUk6p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470858577855-h6o8n5tfr1n4nt8p51fd1lr5f3be4ujs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
